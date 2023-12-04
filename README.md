@@ -1,1 +1,1 @@
-# ml-project
+# Optimizing Campus Dining using ML
